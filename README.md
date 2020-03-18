@@ -1,2 +1,3 @@
 # practice
-practice repository
+practice repository for git demonstration
+
